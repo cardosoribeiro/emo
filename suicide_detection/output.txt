@@ -1,0 +1,11 @@
+Accuracy: 0.8954
+              precision    recall  f1-score   support
+
+ non-suicide       0.94      0.85      0.89     23287
+     suicide       0.86      0.94      0.90     23128
+
+    accuracy                           0.90     46415
+   macro avg       0.90      0.90      0.90     46415
+weighted avg       0.90      0.90      0.90     46415
+
+The predicted class for the phrase is: suicide
