@@ -1,3 +1,3 @@
 # EMO
 
-Emo a is Python Flask REST API to Artificial Intelligence services.
+Emo is a Flask REST API to Artificial Intelligence services.
